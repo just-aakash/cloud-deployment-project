@@ -1,9 +1,11 @@
-# Cloud Deployment Project
+## Git Operations
 
-This repository contains automation scripts and container configuration files for deploying applications to the cloud.
+This project demonstrates the following Git operations:
 
-## Technologies Used
-- Git
-- GitHub
-- Docker
-- Shell Scripting
+- Cloning a repository
+- Creating branches
+- Making changes
+- Staging files
+- Creating commits
+- Pushing changes
+- Pulling latest changes
