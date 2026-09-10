@@ -7,5 +7,3 @@ This repository contains automation scripts and container configuration files fo
 - GitHub
 - Docker
 - Shell Scripting
-
-New commit for rollback demonstration
